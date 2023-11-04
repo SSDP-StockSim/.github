@@ -56,15 +56,15 @@ The future development of our Stock Market Simulator is an exciting journey that
 
 We plan to create a full-stack website using ReactJS, MongoDB, Express and NodeJS that would make the app more user-friendly by refining the interface and improving traffic.
 
-- **2. AI Integration: **
+- **2. AI Integration:**
 
 We aim to integrate AI suggestions using Cohere's LLM to provide more resources for students when making financial decisions.
 
-- **3. Advanced Analytics: **
+- **3. Advanced Analytics:**
 
 We're exploring the addition of more in-depth analytics tools, such as technical indicators, historical price charts, and portfolio performance metrics. This can help users learn about advanced trading strategies.
 
-- **4. Educational Content: **
+- **4. Educational Content:**
 
 We plan to create tutorials, articles, or videos within the app to educate users about stock market concepts, trading strategies, and investment principles.
 
