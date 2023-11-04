@@ -50,7 +50,7 @@ For detailed instructions on setting up and using the Stock Market Simulator, pl
 
 ## **What's Next?**
 
-The future development of our Stock Market Simulator is an exciting journey that is dear to our heart. Here are some directions we are considering:
+The future development of our Stock Market Simulator is an exciting journey that we are looking forward to! Here are some directions we are considering:
 
 - **1. Enhanced User Experience:** 
 
