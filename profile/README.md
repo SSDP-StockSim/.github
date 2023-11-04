@@ -10,7 +10,7 @@ Recognizing the need for a modern, interactive solution, we embarked on the jour
 
 ## Features
 
-### Stock Market Simulator Server Manager
+![### Stock Market Simulator Server Manager](https://github.com/Stock-market-simulator-rsodhi-hbenipal/stock-market-simulator-server-manager)
 
 The Stock Market Simulator Server Manager offers the following features:
 
@@ -22,7 +22,7 @@ The Stock Market Simulator Server Manager offers the following features:
 - **Data Management:** Automatically generate performance data in a spreadsheet format for easy analysis and record-keeping.
 - **Efficient Deployment:** Designed for easy deployment and management, making it accessible for educators with varying technical backgrounds.
 
-### Stock Market Simulator Client
+![### Stock Market Simulator Client](https://github.com/Stock-market-simulator-rsodhi-hbenipal/stock-market-simulator-java-client)
 
 The Stock Market Simulator Client complements the server manager by offering a user-friendly interface for students to interact with the simulator. Key features include:
 
