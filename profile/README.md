@@ -20,7 +20,7 @@ The Stock Market Simulator Server Manager offers the following features:
 
 - **Multi-Classroom Support:** Enables multiple classrooms on a single network to create and host their own stock market simulations, with each classroom's activities and data kept separate.
 
-- **Real-Time Stock Trading:** Students can buy and sell stocks using real-time market data, gaining hands-on experience in trading.
+- **Real-Time Stock Trading:** Students can buy and sell stocks using real-time market data in the S&P 500, gaining hands-on experience in trading.
 
 - **Performance Tracking:** Teachers and administrators can monitor and assess student performance, making learning outcomes transparent and easy to evaluate.
 
@@ -36,7 +36,7 @@ The Stock Market Simulator Server Manager offers the following features:
 
 The Stock Market Simulator Client complements the server manager by offering a user-friendly interface for students to interact with the simulator. Key features include:
 
-- **Real-Time Price Graphs:** Visualize real-time price movements of stocks, enhancing understanding and decision-making.
+- **Real-Time Price Graphs:** Visualize real-time and historic price movements of stocks, enhancing understanding and decision-making.
 
 - **User-Friendly Trading:** A simple and intuitive trading interface, allowing students to practice trading strategies in a risk-free environment.
 
@@ -47,6 +47,28 @@ The Stock Market Simulator Client complements the server manager by offering a u
 ## Getting Started
 
 For detailed instructions on setting up and using the Stock Market Simulator, please refer to the individual README files in the respective server manager and client folders. These guides provide step-by-step instructions on how to install, configure, and maximize the potential of the simulator in your educational environment.
+
+## **What's Next?**
+
+The future development of our Stock Market Simulator is an exciting journey that is dear to our heart. Here are some directions we are considering:
+
+### **1. Enhanced User Experience:** 
+
+We plan to create a full-stack website using ReactJS, MongoDB, Express and NodeJS that would make the app more user-friendly by refining the interface and improving traffic.
+
+### **2. AI Integration: **
+
+We aim to integrate AI suggestions using Cohere's LLM to provide more resources for students when making financial decisions.
+
+### **3. Advanced Analytics: **
+
+We're exploring the addition of more in-depth analytics tools, such as technical indicators, historical price charts, and portfolio performance metrics. This can help users learn about advanced trading strategies.
+
+### **4. Educational Content: **
+
+We plan to create tutorials, articles, or videos within the app to educate users about stock market concepts, trading strategies, and investment principles.
+
+These are just a few of the exciting possibilities for the future of our project. We value your feedback and look forward to collaborating with our community to make the Stock Market Simulator even better.
 
 ## Contact
 
