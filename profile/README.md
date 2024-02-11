@@ -6,7 +6,7 @@
 
 The Stock Market Simulator was born out of a desire to address the limitations of traditional, pen-and-paper stock market simulations used in many educational settings. The conventional approach required students and teachers to manually track stock performance at the end of each day, which proved to be tedious and monotonous. Additionally, it hindered effective learning, as it lacked a central platform for accessing essential market information and executing trades. The paper-based method also left room for manipulation and cheating.
 
-Recognizing the need for a modern, interactive solution, we embarked on the journey to create the Stock Market Simulator. Our motivation was to offer a platform that brings real-time stock trading and financial market dynamics into the classroom, making learning engaging, practical, and enjoyable for students.
+Recognizing the need for a modern, interactive solution, we embarked on the journey to create the SSDP-StockSim. Our motivation was to offer a platform that brings real-time stock trading and financial market dynamics into the classroom, making learning engaging, practical, and enjoyable for students.
 
 ## Features
 
