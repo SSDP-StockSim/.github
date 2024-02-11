@@ -1,4 +1,4 @@
-# Stock Market Simulator
+# SSDP StockSim
 
 **SSDP StockSim** is an innovative educational platform designed to revolutionize the way finance classes and educators teach students about stock trading and financial markets. With the aim of fostering a dynamic and interactive learning experience, this project allows multiple classrooms on a single network to create and manage their own simulated stock market environments. Teachers and administrators can easily monitor student performance, track activities, and provide hands-on learning experiences. The project offers both a server manager and a client application, enabling efficient deployment and management.
 
